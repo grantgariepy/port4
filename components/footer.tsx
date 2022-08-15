@@ -4,7 +4,7 @@ const Footer = () => {
       <div className="max-w-5xl mx-auto flex justify-between">
         <div className="flex items-center space-x-4">
           <img
-            src="/react-bricks-icon.svg"
+            src="/iconG.png"
             alt="React Bricks"
             className="w-8"
           />
