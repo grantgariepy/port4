@@ -10,12 +10,11 @@
     "start": "next start",
     "export": "yarn run build && next export && mv out _static"
   },
-
-  "engines":{
+  "engines": {
     "node": "16.x"
   },
   "dependencies": {
-    "next": "^12.2.2",
+    "next": "^12.2.5",
     "prism-theme-night-owl": "^1.4.0",
     "prismjs": "^1.28.0",
     "react": "^18.2.0",
